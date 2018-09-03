@@ -2,7 +2,7 @@
 
 ## Descripcion
 
-
+Los datos corresponden a reclamos por polizas de un seguro de autos de la empresa _AllState_. Se supone que cada poliza es contratada por un hogar. Los montos de reclamos para las diferentes polizas pueden diferenciarse por anio de suscripcion, modelo del vehiculo y fabricante.
 
 ## Diccionario
 
@@ -17,3 +17,5 @@
 - `Blind_Make` INT - Fabricante del vehiculo (discresional).
 
 - `Claim_Amount` INT - Monto de reclamo asociado con el vehiculo (montos en USD).
+
+**Nota:** Las polizas con reclamos nulos (`Claim_Amount`==0) corresponden a casos no siniestrados.

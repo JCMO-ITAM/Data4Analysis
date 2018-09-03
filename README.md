@@ -16,4 +16,10 @@ Diccionario [[Link]](https://github.com/JCMO-ITAM/Data4Analysis/edit/master/d4a_
 
 ## 3. Datos de seguros de autos
 
+Los datos corresponden a reclamos por polizas de un seguro de autos de la empresa _AllState_. Se supone que cada poliza es contratada por un hogar. Los montos de reclamos para las diferentes polizas pueden diferenciarse por anio de suscripcion, modelo del vehiculo y fabricante.
+
+Datos [[Link]](https://github.com/JCMO-ITAM/Data4Analysis/edit/master/d4a_allstateclaim_data.csv)
+
+Diccionario [[Link]](https://github.com/JCMO-ITAM/Data4Analysis/edit/master/d4a_allstateclaim_dictionary.md)
+
 

@@ -1,8 +1,6 @@
-# Data4Analysis
+# Datos para analisis
 
-_Otoño 2018_
-
-Este repositorio contiene datos que seran empleados en los cursos de ACT11302 y EST-46111.
+Este repositorio contiene datos que seran empleados en los cursos de ACT11302, EST-46111 y EST-46114.
 
 ## 1. Datos de fraude crediticio
 
@@ -28,4 +26,4 @@ Datos [[Link]](https://github.com/JCMO-ITAM/Data4Analysis/blob/master/d4a_allsta
 
 Diccionario [[Link]](https://github.com/JCMO-ITAM/Data4Analysis/blob/master/d4a_allstateclaim_dictionary.md)
 
-
+## 4. 

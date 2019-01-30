@@ -26,4 +26,14 @@ Datos [[Link]](https://github.com/JCMO-ITAM/Data4Analysis/blob/master/d4a_allsta
 
 Diccionario [[Link]](https://github.com/JCMO-ITAM/Data4Analysis/blob/master/d4a_allstateclaim_dictionary.md)
 
-## 4. 
+## 4. Datos de seguros de viviendas
+
+Los datos corresponden a reclamos por polizas de un seguro de viviendas de una empresa danesa. La peculiaridad de estos datos es que los montos de reclamos individuales exhiben valores extremos validos. Los datos han sido empleado para ilustrar aplicaciones de diferentes documentos de investigacion.
+
+Datos [[Link]](https://github.com/JCMO-ITAM/Data4Analysis/blob/master/d4a_danishinsurancedata.cvs.csv)
+
+Diccionario [[Link]](https://github.com/JCMO-ITAM/Data4Analysis/blob/master/d4a_danishinsurancedata_dictionary.md)
+
+Paper [[Link]](https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa/article/estimating-the-tails-of-loss-severity-distributions-using-extreme-value-theory/745048C645338C953C522CB29C7D0FF9)
+
+

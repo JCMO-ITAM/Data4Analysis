@@ -28,7 +28,7 @@ Diccionario [[Link]](https://github.com/JCMO-ITAM/Data4Analysis/blob/master/d4a_
 
 ## 4. Datos de seguros de viviendas
 
-Los datos corresponden a reclamos por polizas de un seguro de viviendas de una empresa danesa. La peculiaridad de estos datos es que los montos de reclamos individuales exhiben valores extremos validos. Los datos han sido empleado para ilustrar aplicaciones de diferentes documentos de investigacion.
+Los datos corresponden a reclamos por polizas de un seguro de edificios de una empresa danesa. La peculiaridad de estos datos es que los montos de reclamos individuales exhiben valores extremos validos. Los datos han sido empleado para ilustrar aplicaciones de diferentes documentos de investigacion.
 
 Datos [[Link]](https://github.com/JCMO-ITAM/Data4Analysis/blob/master/d4a_danishinsurancedata.cvs.csv)
 
